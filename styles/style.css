@@ -350,6 +350,7 @@ a{
     width: 11.5rem;
     border-radius: .1rem .3rem .3rem .1rem;
 }
+
 .cadastro {
     height: 50vh;
     width: 30vw;
@@ -367,5 +368,4 @@ a{
 .designs {
     margin-top: 2.5vh;
     font-style: italic;
-
 }
