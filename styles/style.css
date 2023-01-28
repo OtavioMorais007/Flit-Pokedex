@@ -350,3 +350,22 @@ a{
     width: 11.5rem;
     border-radius: .1rem .3rem .3rem .1rem;
 }
+
+.cadastro {
+    height: 50vh;
+    width: 30vw;
+    background-color: rgb(62, 61, 61) ;
+    color: white;
+    display: inline-block;
+    margin-top: 5vh;
+    border-radius: 1vw;
+    box-shadow: 0 5px #999;
+    text-align: center;
+    margin-left: 35vw;
+    margin-right: 35vw;
+}
+
+.designs {
+    margin-top: 2.5vh;
+    font-style: italic;
+}
